@@ -18,8 +18,9 @@ The objective of this project was to:
 - Explore voxel-wise rs-fMRI analysis (ALFF/dALFF).
 - Associate the rs-fMRI metrics with the post-surgical cognitive deterioration.
 
+Figures:
 ![Analysis overview](images/ana_pipeline.jpg)
-
+![Results overview](images/res_overview.jpg)
 
 ## Publication
 
@@ -28,6 +29,8 @@ Under review
 ## Directory Structure
 ```bash
 2024_ALGLIO/
+    ├── images/ # include some figures
+    │
     ├── README.md
     ├── ___.m # a matlab script for eye-tracking data analysis
 ```
