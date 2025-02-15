@@ -18,6 +18,8 @@ The objective of this project was to:
 - Explore voxel-wise rs-fMRI analysis (ALFF/dALFF).
 - Associate the rs-fMRI metrics with the post-surgical cognitive deterioration.
 
+![Analysis overview](images/ana_pipeline.jpg)
+
 
 ## Publication
 
