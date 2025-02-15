@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository includes scripts used for predicitng cognitive outcomes of post-surgical glioma patients.
+This repository includes scripts used for predicting cognitive outcomes of post-surgical glioma patients.
+
 
 ## Table of Contents
 
@@ -18,6 +19,13 @@ The objective of this project was to:
 - Explore voxel-wise rs-fMRI analysis (ALFF/dALFF).
 - Associate the rs-fMRI metrics with the post-surgical cognitive deterioration.
 
+Methods:
+- 23 glioma patients
+- 1.5T MRI
+- Structural MRI
+- Resting-state fMRI
+- Cognitive assessments
+
 Figures:
 ![Analysis overview](images/ana_pipeline.jpg)
 ![Results overview](images/res_overview.jpg)
@@ -32,7 +40,7 @@ Under review
     ├── images/ # include some figures
     │
     ├── README.md
-    ├── ___.m # a matlab script for eye-tracking data analysis
+    ├── ___.m # a Matlab script for eye-tracking data analysis
 ```
 
 ## Contact
